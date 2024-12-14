@@ -2,7 +2,7 @@
   "makanan": [
     {
       "id": 1,
-      "img": "https://i.imgur.com/vKIReUR.jpeg",
+      "img": "https://i.imgur.com/SzfcTzT.jpeg",
       "offer": true,
       "title": "Nasi Goreng",
       "description": "Nasi goreng spesial dibuat ahlinya",
@@ -10,7 +10,7 @@
     },
      {
       "id": 2,
-      "img": "https://imgur.com/mq5LCfD",
+      "img": "https://i.imgur.com/mq5LCfD.jpeg",
       "offer": true,
       "title": "Nasi Gudeg",
       "description": "Ini namanya nasi gudeg",
@@ -18,7 +18,7 @@
     },
      {
       "id": 3,
-      "img": "https://imgur.com/Mf66SPm",
+      "img": "https://i.imgur.com/Mf66SPm.jpeg",
       "offer": false,
       "title": "Nasi Soto",
       "description": "Soto dengan rasah gurih dan enak poll",
@@ -26,7 +26,7 @@
     },
      {
       "id": 4,
-      "img": "https://imgur.com/giOEUvk",
+      "img": "https://i.imgur.com/giOEUvk.jpeg",
       "offer": false,
       "title": "Ayam Geprek",
       "description": "Ayamnya digeprek",
@@ -34,7 +34,7 @@
     },
      {
       "id": 5,
-      "img": "https://imgur.com/9kbwspb",
+      "img": "https://i.imgur.com/9kbwspb.jpeg",
       "offer": false,
       "title": "Mi Ayam",
       "description": "Mi ayam juga tersedia",
@@ -44,7 +44,7 @@
   "minuman": [
     {
       "id": 6,
-      "img": "https://imgur.com/ziyqcEb",
+      "img": "https://i.imgur.com/ziyqcEb.jpeg",
       "offer": true,
       "title": "Es Teh",
       "description": "Es Teh Segar",
@@ -52,7 +52,7 @@
     },
     {
       "id": 7,
-      "img": "https://imgur.com/tJAKVJb",
+      "img": "https://i.imgur.com/tJAKVJb.jpeg",
       "offer": true,
       "title": "Es Jeruk",
       "description": "Es Jeruk juga enak",
