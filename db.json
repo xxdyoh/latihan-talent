@@ -2,7 +2,7 @@
   "makanan": [
     {
       "id": 1,
-      "img": "https://img.kurio.network/ewrCJ9eRNpljU-80vrqWDQkN7o4=/1200x675/filters:quality(80)/https://kurio-img.kurioapps.com/20/10/10/a7e9eaa0-1c22-42b0-a11f-0a5ad1d30126.jpeg",
+      "img": "https://imgur.com/SzfcTzT",
       "offer": true,
       "title": "Nasi Goreng",
       "description": "Nasi goreng spesial dibuat ahlinya",
@@ -10,7 +10,7 @@
     },
      {
       "id": 2,
-      "img": "https://img.harianjogja.com/posts/2023/12/25/1159305/gudeg-jogja.jpg",
+      "img": "https://imgur.com/mq5LCfD",
       "offer": true,
       "title": "Nasi Gudeg",
       "description": "Ini namanya nasi gudeg",
@@ -18,7 +18,7 @@
     },
      {
       "id": 3,
-      "img": "https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2023/04/18/H3-1387742088.png",
+      "img": "https://imgur.com/Mf66SPm",
       "offer": false,
       "title": "Nasi Soto",
       "description": "Soto dengan rasah gurih dan enak poll",
@@ -26,7 +26,7 @@
     },
      {
       "id": 4,
-      "img": "https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/13/2024/01/27/image-41-687951187.png",
+      "img": "https://imgur.com/giOEUvk",
       "offer": false,
       "title": "Ayam Geprek",
       "description": "Ayamnya digeprek",
@@ -34,7 +34,7 @@
     },
      {
       "id": 5,
-      "img": "https://asset.kompas.com/crops/K6GkJ7Rbpok8NarnLFznAz9Pbwc=/0x0:780x390/1200x800/data/photo/2013/07/05/1556180mie-ayam780x390.jpg",
+      "img": "https://imgur.com/9kbwspb",
       "offer": false,
       "title": "Mi Ayam",
       "description": "Mi ayam juga tersedia",
@@ -44,7 +44,7 @@
   "minuman": [
     {
       "id": 6,
-      "img": "https://d1vbn70lmn1nqe.cloudfront.net/prod/wp-content/uploads/2021/06/15093247/Ketahui-Fakta-Es-Teh-Manis.jpg.webp",
+      "img": "https://imgur.com/ziyqcEb",
       "offer": true,
       "title": "Es Teh",
       "description": "Es Teh Segar",
@@ -52,7 +52,7 @@
     },
     {
       "id": 7,
-      "img": "https://sumateraekspres.bacakoran.co/upload/717ebbae4315ce5679f9b2ab4711563e.jpg",
+      "img": "https://imgur.com/tJAKVJb",
       "offer": true,
       "title": "Es Jeruk",
       "description": "Es Jeruk juga enak",
@@ -60,7 +60,7 @@
     },
     {
       "id": 8,
-      "img": "https://imgx.sonora.id/crop/0x0:0x0/x/photo/2020/08/22/3278360227.jpg",
+      "img": "https://imgur.com/vKIReUR",
       "offer": true,
       "title": "Air Es",
       "description": "Air es tersedia",
